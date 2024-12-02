@@ -1,0 +1,7 @@
+../Core/Src/rs232.c:15:10:mypow	2
+../Core/Src/rs232.c:22:6:uart_init_rs232	1
+../Core/Src/rs232.c:27:6:uart_rs232_send_string	1
+../Core/Src/rs232.c:32:6:uart_rs232_send_bytes	1
+../Core/Src/rs232.c:36:6:uart_rs232_send_num	5
+../Core/Src/rs232.c:58:6:uart_rs232_send_num_percent	1
+../Core/Src/rs232.c:66:6:HAL_UART_RxCpltCallback	2
